@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item android:id="@+id/nav_CollegeData"
+        android:title="Data"
+        android:icon="@drawable/baseline_data_thresholding_24"/>
+
+    <item android:id="@+id/nav_AboutUs"
+        android:title="About Us"
+        android:icon="@drawable/baseline_info_24"/>
+</menu>
